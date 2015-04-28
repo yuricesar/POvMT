@@ -23,11 +23,8 @@ import com.ufcg.entities.Data;
 import com.ufcg.entities.Session;
 import com.ufcg.entities.Ti;
 import com.ufcg.json.JSONParse;
-/**
- *
- * @author Werton
- *
- */
+
+
 public class AdicionarTIActivity extends Activity {
 	private static final String FOTO = null;
 	private static final String COR = null;
