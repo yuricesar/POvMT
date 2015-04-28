@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-25f873380b34b69d8342b518e42d0d2b19342621.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-7019448c19d39f072c5a99994e3321e1f7b594a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-df6e350b607201c6730d70ba94d7987bcedbfdc0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-9b5ddbbcae3f2539e231b8043f1d610bbdf6b760.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-3c2227479d4e61392644a34dd2442f100d7803d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-231f977d907362f2bc622dd4a4248de79aca1211.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\.gradle\caches\modules-2\files-2.1\com.jayway.android.robotium\robotium-solo\5.2.1\56ab8d87d966a067ee3795ee137fbd51b6581ec9\robotium-solo-5.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56ab8d87d966a067ee3795ee137fbd51b6581ec9">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\robotium-solo-5.2.1-034e88764c8fb5f0952b8cb95a8dedd84ead59d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-9b354a4e4db6e2398c432f3a64c3793ba34e0f6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-f18dd3120d2b7039f1d927f727ff16f9e69ec8db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-d13def697f2835b596107ea10d5b40a224699402.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3d760a84d169b83915db6f2758855ea9114d9d91.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-44ee15ac99e213465f0cec23fa0d3bdeda02619a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-17eaa08710e8013fa236844fe35e11a892a8d038.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-a8cf7c626650ea94f2b8d7edece6d3b01fe60c81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-26b3fb87c830cc177d980911deb553d1a727956b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-f4de425a5b8766801715b8a5f0af5d248fc03dd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-63ee01fc220c726540e46dee93ee6fe60cf69ef6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-38f8425d10e23712478088762e2ba3ca9c5b8782.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\LES\holoGraphLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87dc72b9639349b9b841b88f56d67a2a2d546ce4">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-95ba3dbd4029375d049ebfee5b6fbd818deb4fa1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-dd2b25169c75e873efb7fc88c7ef055012d17e7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-71c4cc4bae72da5b226ebfc5f8aedce9f2285f18.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-2a739e5cc94a581b4476cbf7bae4f1bd7d513ecf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-9bd28ce8a4ecdefe69cf9cf9b2305c8a025f6b55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Yuri Cesar\AndroidStudioProjects\LES\cronus\build\intermediates\pre-dexed\debug\classes-d3b54c0ff0eeca4ae4fba377f5780a78ab8c3f01.jar" />
+    </item>
+
+</items>

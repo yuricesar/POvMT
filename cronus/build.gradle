@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.ufcg.les"
+        minSdkVersion 11
+        targetSdkVersion 18
+
+        testApplicationId "com.ufcg.les"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':holoGraphLibrary')
+    compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.jayway.android.robotium:robotium-solo:5.2.1'
+    compile 'com.google.android.gms:play-services:+'
+}

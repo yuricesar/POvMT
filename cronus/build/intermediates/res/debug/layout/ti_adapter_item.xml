@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/cor"
+        android:layout_width="26dp"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingLeft="15dp" >
+
+        <TextView
+            android:id="@+id/nome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/name"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/tempo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/time"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/prioridade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/prioridade"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/proporcao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/proporcao"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Yuri%20Cesar/AndroidStudioProjects/LES/cronus/src/main/res/layout/ti_adapter_item.xml -->
