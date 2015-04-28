@@ -6,9 +6,9 @@ import java.util.Date;
 public class Ti {
 	private String nome, foto, cor; 
 	private int tempo, prioridade;
-	private Date data;
-	private boolean checked;
-	/**
+     private Date data;
+     private boolean checked;
+     /**
 	 * @param nome
 	 * @param tempo
 	 * @param data
