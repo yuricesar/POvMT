@@ -13,19 +13,3 @@ allprojects {
         jcenter()
     }
 }
-
-android {
-    lintOptions {
-        abortOnError false
-    }
-}
-
-ext {
-    compileSdkVersion = 19
-    buildToolsVersion = "19.0.1"
-}
-
-android {
-    compileSdkVersion rootProject.ext.compileSdkVersion
-    buildToolsVersion rootProject.ext.buildToolsVersion
-}
