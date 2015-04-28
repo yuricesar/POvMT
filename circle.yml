@@ -2,12 +2,9 @@ machine:
   environment:
     ANDROID_HOME: /usr/local/android-sdk-linux
 
-    before_install:
-
-    - chmod +x gradlew
-
 dependencies:
   pre:
+    - chmod +x gradlew
     - echo y | android update sdk --no-ui --all --filter "android-17,build-tools-17.0.0"
 
   override:
