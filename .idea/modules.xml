@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LES.iml" filepath="$PROJECT_DIR$/LES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronus/cronus.iml" filepath="$PROJECT_DIR$/cronus/cronus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/holoGraphLibrary/holoGraphLibrary.iml" filepath="$PROJECT_DIR$/holoGraphLibrary/holoGraphLibrary.iml" />
+    </modules>
+  </component>
+</project>
+
