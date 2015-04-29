@@ -3,6 +3,9 @@ language: android
 before_install:
 
     - chmod +x gradlew
+    - export TERM=dumb
+    - ./gradlew -v
+    - uname -a
 
 android:
 
@@ -28,3 +31,8 @@ android:
     # if you need to run emulator(s) during your tests
     - sys-img-armeabi-v7a-android-19
     - sys-img-x86-android-17
+
+notifications:
+  email: false
+
+script: ./gradlew clean build
