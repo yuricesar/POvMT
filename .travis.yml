@@ -7,7 +7,6 @@ env:
 
 before_install:
 
-    - cp -R /usr/local/android-sdk-23.0.2 ./android-sdk
     - chmod +x gradlew
 
 android:
@@ -34,3 +33,9 @@ android:
     # if you need to run emulator(s) during your tests
     - sys-img-armeabi-v7a-android-19
     - sys-img-x86-android-17
+
+    licenses:
+
+    - 'android-sdk-preview-license-52d11cd2'
+    - 'android-sdk-license-.+'
+    - 'google-gdk-license-.+'
