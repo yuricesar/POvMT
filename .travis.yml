@@ -35,4 +35,5 @@ android:
 notifications:
   email: false
 
+script: ./gradlew testDevelopmentDebug
 script: ./gradlew clean build
