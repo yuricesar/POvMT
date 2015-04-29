@@ -1,9 +1,6 @@
 before_install:
 
     - chmod +x gradlew
-    - export TERM=dumb
-    - ./gradlew -v
-    - uname -a
 
 android:
 
@@ -32,6 +29,3 @@ android:
 
 notifications:
   email: false
-
-script: ./gradlew testDevelopmentDebug
-script: ./gradlew clean build
